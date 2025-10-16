@@ -1,3 +1,4 @@
 # UII-Act-7-CRUD-Tabla-Django
-<img width="1338" height="425" alt="s1" src="https://github.com/user-attachments/assets/cdf3fd61-9c33-48f6-9f5e-28fad94323ac" />
-<img width="1335" height="547" alt="s2" src="https://github.com/user-attachments/assets/67e80a55-60dd-402b-bd3e-4426983297cf" />
+<img width="1365" height="603" alt="x" src="https://github.com/user-attachments/assets/061a3ca1-cd49-47d5-b9c2-815f5204e46d" />
+
+<img width="1356" height="430" alt="x2" src="https://github.com/user-attachments/assets/a717c3ce-3995-44ef-8765-3a9b5923d20b" />
